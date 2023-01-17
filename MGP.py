@@ -1,6 +1,6 @@
 # Model Gerak Peluru berdasarkan simulasinya menggunakan modul matplotlib dan numpy
 # Golf Ball Trajectory Simulation
-# Created by Akmal, Namira, and Zaki at 20/10/2022
+# Created by Akmal Muzakki at 20/10/2022
 
 import numpy as np
 import matplotlib.pyplot as plt
